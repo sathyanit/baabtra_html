@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+input[type=text],input[type=password],select
+{
+	border-radius:4px;
+}
+
+
+.header
+{
+	width:100%;
+	background:#3b5998;
+	padding:20px;
+	height:50px;
+	color:#FFF;
+}
+.login
+{
+	width:40%;
+	float:left;
+	}
+	
+.user
+{
+	 margin: 2px 0px;
+	float:left;
+	width:20%;
+	padding:1px;
+	
+}
+.password
+{
+	 margin: 2px 75px;
+	
+	float:left;
+	width:20%;
+	
+}
+.submit
+{
+	margin-top:20px;
+	width:10%;
+	float:left;
+	}
+
+
+.pic
+{
+	float:left;
+	width:60%;
+	
+}
+
+.content
+{
+	width:100%;
+	background:#ffffff;
+	padding:20px;
+	height:50px;
+	color:#000000;
+}
+
+.group
+{
+	float:left;
+	width:40%;
+	
+}
+.register
+{
+	 margin: 2px 125px;
+	float:left;
+	width:40%;
+	
+}
+.login submit 
+{
+	border-radius:2px;
+	background-color:#0033CC;
+}
+#loginbtn
+{
+	background-color:#0033CC;
+}
+#registerbtn
+{
+	background-color:#006600;
+}
